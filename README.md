@@ -60,7 +60,7 @@ This tag is set to all wooden objects and is given to all clones when they are i
 
 ### Demo
 
-<video src="demo.mp4" width="320" height="640" controls></video>
+[<video src="demo.mp4" width="320" height="640" controls></video>](https://github.com/ogi02/AR-Game/blob/c7e23660f30bc83594adc3aa8cbcb49d2ad83532/demo.mp4)
 
 ### Author
 
