@@ -17,7 +17,7 @@ public class ShootBallLogic : MonoBehaviour
     private void ShootBallOnButtonClicked()
 	{
         // Spawn position of the ball is a bit in front of the camera
-        Vector3 spawnPosition = mainCamera.transform.position + mainCamera.transform.forward * 0.1f;
+        Vector3 spawnPosition = mainCamera.transform.position + mainCamera.transform.forward * 0.03f;
         Quaternion spawnRotation = mainCamera.transform.rotation;
 
         GameObject spawnedBall = Instantiate(ballPrefab, spawnPosition, spawnRotation);
