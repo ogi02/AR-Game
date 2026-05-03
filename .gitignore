@@ -107,7 +107,13 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 # IDE / OS clutter
+.vsconfig
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Others
+*DoNotShip*
+*.tgz
+UpgradeLog.htm
